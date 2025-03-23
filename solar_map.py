@@ -8,7 +8,8 @@ st.set_page_config(page_title="Solar One Analytics Map", layout="wide")
 st.title("Solar PV Projects Map – Solar One Analytics")
 
 # Load data
-data_path =  r"C:\Users\ktouf\Desktop\In Construction and Complete Solar PV Projects 1_7_25 (1).xlsx"
+data_path = "solar_projects.xlsx"
+
 df = pd.read_excel(data_path)
 
 # Rename columns for easier access
