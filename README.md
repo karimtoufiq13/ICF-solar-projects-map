@@ -31,5 +31,32 @@ Check out the deployed app here:
 ```bash
 git clone https://github.com/karimtoufiq13/icf-solar-projects-map.git
 cd icf-solar-projects-map
+```
+## Dependencies
+streamlit
+
+pandas
+
+folium
+
+streamlit-folium
+
+openpyxl
+
+All listed in **requirements.txt** 
+
+📍 Data Source
+The dataset includes construction and completion statuses of solar PV installations sourced from Solar One’s internal evaluations.
+
+Contact
+Built by Karim Toufiq
+For questions, feedback, or collaborations, feel free to reach out!
+
+Future Ideas
+Add filters by borough, status, or project category
+
+Display summary charts (total completed, in construction, etc.)
+
+Export filtered maps as standalone HTML
 
 
