@@ -45,18 +45,18 @@ openpyxl
 
 All listed in **requirements.txt** 
 
-📍 Data Source
+## Data Source
 The dataset includes construction and completion statuses of solar PV installations sourced from Solar One’s internal evaluations.
 
-Contact
+## Contact
 Built by Karim Toufiq
 For questions, feedback, or collaborations, feel free to reach out!
 
-Future Ideas
+## Future Ideas
 Add filters by borough, status, or project category
 
 Display summary charts (total completed, in construction, etc.)
 
-Export filtered maps as standalone HTML
+
 
 
