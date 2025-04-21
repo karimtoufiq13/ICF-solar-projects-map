@@ -20,14 +20,7 @@ This project is an interactive map-based web app that visualizes **solar photovo
 
 ---
 
-## Getting Started (Local Development)
 
-### 1. Clone the repo
-
-```bash
-git clone https://github.com/karimtoufiq13/icf-solar-projects-map.git
-cd icf-solar-projects-map
-```
 ## Dependencies
 streamlit
 
@@ -42,7 +35,7 @@ openpyxl
 All listed in **requirements.txt** 
 
 ## Data Source
-The dataset includes construction and completion statuses of solar PV installations sourced from Solar One’s internal evaluations.
+The dataset includes construction and completion statuses of solar PV installations sourced from Solar One’s internal evaluations. The original file  will not be included due to data sensitivity purposes.  
 
 ## Contact
 Built by Karim Toufiq
@@ -52,6 +45,11 @@ For questions, feedback, or collaborations, feel free to reach out!
 Add filters by borough, status, or project category
 
 Display summary charts (total completed, in construction, etc.)
+
+Connect to a secure backend or data API for dynamic updates
+
+Display installation timelines or expected completion dates
+
 
 
 
