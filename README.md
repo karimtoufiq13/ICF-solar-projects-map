@@ -9,8 +9,6 @@ This project is an interactive map-based web app that visualizes **solar photovo
 ---
 
 
----
-
 ##  Features
 
 - Interactive map with **color-coded markers** by project status
