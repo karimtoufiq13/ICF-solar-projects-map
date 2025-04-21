@@ -39,6 +39,7 @@ The dataset includes construction and completion statuses of solar PV installati
 
 ## Contact
 Built by Karim Toufiq
+
 For questions, feedback, or collaborations, feel free to reach out!
 
 ## Future Ideas
